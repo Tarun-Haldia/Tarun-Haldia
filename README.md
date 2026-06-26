@@ -6,38 +6,6 @@ I enjoy building practical AI applications that solve real-world problems. My in
 </p>
 
 
-## 🏅 LeetCode Achievements
-
-<p align="center">
-  <img src="(https://leetcode.com/medal/?showImg=0&id=5924151&isLevel=false)" width="120"/>
-  <img src="https://leetcode.com/medal/?showImg=0&id=5583611&isLevel=false" width="120"/>
-  <img src="https://leetcode.com/medal/?showImg=0&id=5499538&isLevel=false" width="120"/>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/t9502018/">
-    <img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
-
-## 💻 Coding Profiles
-
-<p align="center">
-<a href="https://leetcode.com/u/t9502018/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="[https://huggingface.co/YOUR_USERNAME](https://huggingface.co/Tanny001)">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tarun-haldia/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
-
-
 
 ###  About Me
 
@@ -63,7 +31,7 @@ Python • Java • JavaScript • SQL
 
 **AI / ML**
 
-TensorFlow • PyTorch • Scikit-learn • OpenCV • Hugging Face • LangChain
+TensorFlow • PyTorch • Scikit-learn • OpenCV • Hugging Face • LangChain • LangGraph
 
 **Backend**
 
