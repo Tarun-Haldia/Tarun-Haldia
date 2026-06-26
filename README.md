@@ -19,8 +19,10 @@ I enjoy building practical AI applications that solve real-world problems. My in
 
 ###  Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,tensorflow,pytorch,docker,git,github,linux,vscode,postgres,supabase" />
+##  Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,fastapi,docker,git,github,linux,vscode,postgres,supabase&perline=7" />
 </p>
 
 **Languages**
@@ -51,13 +53,14 @@ AI Ticket Classifier
 
 ---
 
-###  GitHub Stats
+##  GitHub Stats
 
-<!-- GitHub stats widgets will go here -->
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarun-Haldia&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Haldia&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
----
-
-### 🤝 Connect With Me
+###  Connect With Me
 
 [- LinkedIn](https://www.linkedin.com/in/tarun-haldia/)
 [- Portfolio](https://port-folio-olive-alpha.vercel.app/)
@@ -65,18 +68,25 @@ AI Ticket Classifier
 [- Hugging Face](https://huggingface.co/Tanny001)
 
 
-
-## 📊 GitHub Stats
+##  GitHub Trophies
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarun-Haldia&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Haldia&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tarun-Haldia&theme=github_dark&no-frame=true&row=1&column=6" />
 </p>
 
-## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarun-Haldia/Tarun-Haldia/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+## 📈 Contribution Graph
+
+[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarun-Haldia&theme=github-compact)](https://github.com/Tarun-Haldia)
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tarun-Haldia&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
