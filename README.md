@@ -12,7 +12,7 @@ I enjoy building practical AI applications that solve real-world problems. My in
 -  Currently building AI applications and automation tools
 -  Learning advanced LLMs, AI Agents, and 
 -  Ask me about Python, Machine Learning, FastAPI, RAG, and Deep Learning
--  Reach me: [mailto]**haldiatarun@gmail.com**
+-  Reach me: [mail](haldiatarun@gmail.com)
 -  Portfolio: [portfolio](https://port-folio-olive-alpha.vercel.app/)
 
 ---
