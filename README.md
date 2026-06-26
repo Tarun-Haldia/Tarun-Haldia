@@ -19,6 +19,10 @@ I enjoy building practical AI applications that solve real-world problems. My in
 
 ###  Tech Stack
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,tensorflow,pytorch,docker,git,github,linux,vscode,postgres,supabase" />
+</p>
+
 **Languages**
 
 Python • Java • JavaScript • SQL
@@ -59,3 +63,12 @@ AI Ticket Classifier
 [- Portfolio](https://port-folio-olive-alpha.vercel.app/)
 [- LeetCode](https://leetcode.com/u/t9502018/)
 [- Hugging Face](https://huggingface.co/Tanny001)
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarun-Haldia&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Haldia&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
