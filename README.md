@@ -72,3 +72,9 @@ AI Ticket Classifier
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarun-Haldia&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Haldia&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarun-Haldia/Tarun-Haldia/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
