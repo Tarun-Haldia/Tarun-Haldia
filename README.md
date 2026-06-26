@@ -6,6 +6,21 @@ I enjoy building practical AI applications that solve real-world problems. My in
 </p>
 
 
+## 🏅 LeetCode Achievements
+
+<p align="center">
+  <img src="[LINK_TO_DEC_BADGE](https://leetcode.com/medal/?showImg=0&id=5924151&isLevel=false)" width="120"/>
+  <img src="https://leetcode.com/medal/?showImg=0&id=5583611&isLevel=false" width="120"/>
+  <img src="https://leetcode.com/medal/?showImg=0&id=5499538&isLevel=false" width="120"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+
 ## 💻 Coding Profiles
 
 <p align="center">
