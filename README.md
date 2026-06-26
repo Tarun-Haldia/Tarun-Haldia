@@ -5,7 +5,24 @@
 I enjoy building practical AI applications that solve real-world problems. My interests include LLMs, Retrieval-Augmented Generation (RAG), Deep Learning, Computer Vision, and backend development with FastAPI.
 </p>
 
----
+
+## 💻 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/t9502018/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="[https://huggingface.co/YOUR_USERNAME](https://huggingface.co/Tanny001)">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tarun-haldia/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+
 
 ###  About Me
 
@@ -15,14 +32,14 @@ I enjoy building practical AI applications that solve real-world problems. My in
 -  Reach me: [mail](haldiatarun@gmail.com)
 -  Portfolio: [portfolio](https://port-folio-olive-alpha.vercel.app/)
 
----
+
 
 ###  Tech Stack
 
 ##  Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,fastapi,docker,git,github,linux,vscode,postgres,supabase&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,fastapi,git,github,vscode,postgres,supabase&perline=7" />
 </p>
 
 **Languages**
@@ -66,13 +83,6 @@ AI Ticket Classifier
 [- Portfolio](https://port-folio-olive-alpha.vercel.app/)
 [- LeetCode](https://leetcode.com/u/t9502018/)
 [- Hugging Face](https://huggingface.co/Tanny001)
-
-
-##  GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tarun-Haldia&theme=github_dark&no-frame=true&row=1&column=6" />
-</p>
 
 
 ##  Contribution Snake
