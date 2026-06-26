@@ -10,10 +10,10 @@ I enjoy building practical AI applications that solve real-world problems. My in
 ###  About Me
 
 -  Currently building AI applications and automation tools
--  Learning advanced LLMs, AI Agents, and MLOps
+-  Learning advanced LLMs, AI Agents, and 
 -  Ask me about Python, Machine Learning, FastAPI, RAG, and Deep Learning
--  Reach me: **your-email@example.com**
--  Portfolio: https://your-portfolio.vercel.app
+-  Reach me: **haldiatarun@gmail.com**
+-  Portfolio: [portfolio](https://port-folio-olive-alpha.vercel.app/)
 
 ---
 
