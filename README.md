@@ -31,7 +31,7 @@ Python • Java • JavaScript • SQL
 
 **AI / ML**
 
-TensorFlow • PyTorch • Scikit-learn • OpenCV • Hugging Face • LangChain • LangGraph
+TensorFlow • PyTorch • Scikit-learn • OpenCV • Hugging Face • LangChain • LangGraph • 11 Labs
 
 **Backend**
 
