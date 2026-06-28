@@ -22,7 +22,7 @@ I enjoy building practical AI applications that solve real-world problems. My in
 ##  Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,fastapi,git,github,vscode,postgres,supabase&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,fastapi,git,github,vscode,11elevelabs,postgres,supabase&perline=7" />
 </p>
 
 **Languages**
