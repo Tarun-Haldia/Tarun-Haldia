@@ -22,7 +22,7 @@ I enjoy building practical AI applications that solve real-world problems. My in
 ##  Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,fastapi,git,github,vscode,elevelabs,postgres,supabase&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,fastapi,git,github,vscode,postgres,supabase&perline=7" />
 </p>
 
 **Languages**
@@ -31,7 +31,7 @@ Python • Java • JavaScript • SQL
 
 **AI / ML**
 
-TensorFlow • PyTorch • Scikit-learn • OpenCV • Hugging Face • LangChain • LangGraph • 11 Labs
+TensorFlow • PyTorch • Scikit-learn • OpenCV • Hugging Face • LangChain • LangGraph
 
 **Backend**
 
