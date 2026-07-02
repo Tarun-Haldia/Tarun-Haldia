@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarun Haldia</h1>
+<h1 align="center">Heyy, I'm Tarun Haldia</h1>
 <h3 align="center">AI Engineer | Machine Learning | AI Agents | RAG Systems</h3>
 
 <p align="center">
