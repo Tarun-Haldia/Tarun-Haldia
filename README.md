@@ -10,7 +10,7 @@ I enjoy building practical AI applications that solve real-world problems. My in
 ###  About Me
 
 -  Currently building AI applications and automation tools
--  Learning advanced LLMs, AI Agents, and 
+-  Learning advanced LLMs and AI agents 
 -  Ask me about Python, Machine Learning, FastAPI, RAG, and Deep Learning
 -  Reach me: (haldiatarun@gmail.com)
 -  Portfolio: [portfolio](https://port-folio-olive-alpha.vercel.app/)
@@ -78,7 +78,7 @@ AI Ticket Classifier
 
 [![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarun-Haldia&theme=github-compact)](https://github.com/Tarun-Haldia)
 
-## 👀 Profile Views
+## Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tarun-Haldia&label=Profile%20Views&color=0e75b6&style=flat" />
